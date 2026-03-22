@@ -1,0 +1,79 @@
+{
+  "jade.stdlib": {
+    "latest": "0.1.0-alpha",
+    "description": "Jade standard library — all modules",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.io": {
+    "latest": "0.1.0-alpha",
+    "description": "I/O — println, print, readln, stderr",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.math": {
+    "latest": "0.1.0-alpha",
+    "description": "Math — sqrt, trig, log, random, PI, E",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.os": {
+    "latest": "0.1.0-alpha",
+    "description": "OS — platform, arch, env, exit, cwd",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.fs": {
+    "latest": "0.1.0-alpha",
+    "description": "Filesystem — read, write, exists, mkdir, copy",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.collections": {
+    "latest": "0.1.0-alpha",
+    "description": "Collections — List, Map, Set",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.net": {
+    "latest": "0.1.0-alpha",
+    "description": "Networking — http, tcp, udp",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.json": {
+    "latest": "0.1.0-alpha",
+    "description": "JSON — parse, stringify",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.crypto": {
+    "latest": "0.1.0-alpha",
+    "description": "Crypto — sha256, md5, uuid, random",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.time": {
+    "latest": "0.1.0-alpha",
+    "description": "Time — now, sleep, format",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  },
+  "jade.stdlib.web": {
+    "latest": "0.1.0-alpha",
+    "description": "Web framework — WebApp, Request, Response, Router",
+    "author": "Fundiman",
+    "license": "LGPL-3.0",
+    "versions": ["0.1.0-alpha"]
+  }
+}
